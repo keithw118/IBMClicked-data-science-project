@@ -1,4 +1,7 @@
 #TEAM12
+Teammates whom I partnered with to deliver project:
+Ashlynn Duncan
+Kelvin Idogun
 
 Stakeholder is facing an unprecedented amount of employee attrition/churn rates and wants to use company HR data to determine what insights can be gained from it
 
